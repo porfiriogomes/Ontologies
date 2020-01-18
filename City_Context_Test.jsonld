@@ -11,10 +11,7 @@
     "description":"https://schema.org/description",
     "location": "http://uri.etsi.org/ngsi-ld/location",
 
-    "isPartOf": {
-        "@type": "LGeoSIMOntology:isPartOf",
-        "object": "@id"
-    }
+    "isPartOf": "LGeoSIMOntology:isPartOf",
 
     "neighborOf": {
       "@id": "LGeoSIMOntology:neighborOf",
