@@ -12,8 +12,8 @@
     "location": "http://uri.etsi.org/ngsi-ld/location",
 
     "isPartOf": {
-        "@type": "type",
-        "@id": "object"
+        "type": "@type",
+        "object": "@id"
     }
 
     "neighborOf": {
