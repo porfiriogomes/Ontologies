@@ -12,7 +12,8 @@
     "location": "http://uri.etsi.org/ngsi-ld/location",
 
     "isPartOf": {
-        "object": "LGeoSIMOntology:isPartOf"
+        "@type": "type",
+        "@id": "object"
     }
 
     "neighborOf": {
