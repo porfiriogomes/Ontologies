@@ -1,6 +1,6 @@
 {
   "@context": {
-    "LGeoSIMOntology": "http://www.semanticweb.org/bartirarocha/ontologies/2019/1/LGeoSIMOntology#",
+    "LGeoSIMOntology": "http://www.semanticweb.org/bartirarocha/ontologies/2019/4/LGeoSIMOntology#",
     "id": "@id",
     "type": "@type", 
 
