@@ -12,6 +12,7 @@
     "location": "http://uri.etsi.org/ngsi-ld/location",
 
     "isPartOf": "LGeoSIMOntology:isPartOf",
+    "locatedAt": "LGeoSIMOntology:locatedAt",
 
     "neighborOf": {
       "@id": "LGeoSIMOntology:neighborOf",
