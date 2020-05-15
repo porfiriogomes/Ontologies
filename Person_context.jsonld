@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "LGeoSIMOntology": "http://www.semanticweb.org/bartirarocha/ontologies/2019/4/LGeoSIMOntology#",
+    "id": "@id",
+    "type": "@type",
+ 
+    "Person": "LGeoSIMOntology:Person",
+    "NeighborHood": "LGeoSIMOntology:NeighborHood",
+
+    "nexToPerson": {
+      "@id": "LGeoSIMOntology:nexToPerson",
+      "@container": "@list"
+    },
+    "livingIn": {
+      "@id": "LGeoSIMOntology:livingIn",
+      "@type": "@id"
+    },
+    "locatedAt": {
+      "@id": "LGeoSIMOntology:locatedAt",
+      "@type": "@id"
+    }
+  }    
+}
+
