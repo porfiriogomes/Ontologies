@@ -18,6 +18,14 @@
     "locatedAt": {
       "@id": "LGeoSIMOntology:locatedAt",
       "@type": "@id"
+    },
+    "hasParents": {
+      "@id": "LGeoSIMOntology:hasParents",
+      "@container": "@list"
+    },
+    "hasChildren": {
+      "@id": "LGeoSIMOntology:hasChildren",
+      "@container": "@list"
     }
   }    
 }
