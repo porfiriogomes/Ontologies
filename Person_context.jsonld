@@ -7,7 +7,7 @@
     "Person": "LGeoSIMOntology:Person",
     "NeighborHood": "LGeoSIMOntology:NeighborHood",
 
-    "nextTo": {
+    "nexTo": {
       "@id": "LGeoSIMOntology:nexToPerson",
       "@container": "@list"
     },
