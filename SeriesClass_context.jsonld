@@ -14,15 +14,15 @@
 
     "hasTeacher": {	
       "@id": "LGeoSIMOntology:hasTeacher",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasDiscipline": {	
       "@id": "LGeoSIMOntology:hasDiscipline",
-      "@container": "@list"
+      "@type": "@id"
     },	
     "hasStudent": {	
       "@id": "LGeoSIMOntology:hasStudent",
-      "@container": "@list"
+      "@type": "@id"
     },	
     "attatchedToSeries": {
       "@id": "LGeoSIMOntology:attatchedToSeries",

@@ -13,15 +13,15 @@
 
     "hasDiagnosis": {
       "@id": "LGeoSIMOntology:hasDiagnosis",
-      "@container": "@list"
+      "@type": "@id"
     },
     "makeProcedure": {
       "@id": "LGeoSIMOntology:makeProcedure",
-      "@container": "@list"
+      "@type": "@id"
     },
     "attendedBy": {
       "@id": "LGeoSIMOntology:locatedAt",
-      "@container": "@list"
+      "@type": "@id"
     }
   }
 }

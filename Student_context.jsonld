@@ -27,15 +27,19 @@
 
     "hasDiscResults": {	
       "@id": "LGeoSIMOntology:hasDiscResults",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasSiblings": {	
       "@id": "LGeoSIMOntology:hasSiblings",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasParents": {	
       "@id": "LGeoSIMOntology:hasParents",
-      "@container": "@list"
+      "@type": "@id"
+    },
+    "hasChildren": {
+      "@id": "LGeoSIMOntology:hasChildren",
+      "@type": "@id"
     },
     "attachedToSchoolS": {
       "@id": "LGeoSIMOntology:attachedToSchoolS",
@@ -45,9 +49,9 @@
       "@id": "LGeoSIMOntology:attachedToSeriesClassS",
       "@type": "@id"
     },
-    "nexToPerson": {
-      "@id": "LGeoSIMOntology:nexToPerson",
-      "@container": "@list"
+    "nexTo": {
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
     },
     "livingIn": {
       "@id": "LGeoSIMOntology:livingIn",

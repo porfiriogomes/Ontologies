@@ -23,8 +23,7 @@
 
      "hasGeographicElement": {
         "@id": "LGeoSIMOntology:hasGeographicElement",
-        "@type": "@id",
-        "@container": "@list" 
+        "@type": "@id"
     }
   }
 }

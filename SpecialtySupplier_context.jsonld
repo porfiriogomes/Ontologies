@@ -16,15 +16,27 @@
 
     "attendedIn": {
       "@id": "LGeoSIMOntology:attendedIn",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasSpecialty": {
       "@id": "LGeoSIMOntology:hasSpecialty",
-      "@container": "@list"
+      "@type": "@id"
     },
-    "nexToPerson": {
-      "@id": "LGeoSIMOntology:nexToPerson",
-      "@container": "@list"
+    "hasParents": {
+      "@id": "LGeoSIMOntology:hasParents",
+      "@type": "@id"
+    },
+    "hasChildren": {
+      "@id": "LGeoSIMOntology:hasChildren",
+      "@type": "@id"
+    },
+    "hasSiblings": {
+      "@id": "LGeoSIMOntology:hasSiblings",
+      "@type": "@id"
+    },
+    "nexTo": {
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
     },
     "locatedAt": {
       "@id": "LGeoSIMOntology:locatedAt",

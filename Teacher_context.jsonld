@@ -21,10 +21,34 @@
     },
     "teachesDisc": {	
       "@id": "LGeoSIMOntology:TeachesDisc",
-      "@container": "@list"
+      "@type": "@id"
     },	
     "attatchedToSeriesClassT": {
       "@id": "LGeoSIMOntology:attatchedToSeriesClassT",
+      "@type": "@id"
+    },
+    "hasParents": {
+      "@id": "LGeoSIMOntology:hasParents",
+      "@type": "@id"
+    },
+    "hasChildren": {
+      "@id": "LGeoSIMOntology:hasChildren",
+      "@type": "@id"
+    },
+    "hasSiblings": {
+      "@id": "LGeoSIMOntology:hasSiblings",
+      "@type": "@id"
+    },
+    "nexTo": {
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
+    },
+    "locatedAt": {
+      "@id": "LGeoSIMOntology:locatedAt",
+      "@type": "@id"
+    },    
+    "livingIn": {
+      "@id": "LGeoSIMOntology:livingIn",
       "@type": "@id"
     }
   }    

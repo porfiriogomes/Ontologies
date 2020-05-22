@@ -8,8 +8,8 @@
     "NeighborHood": "LGeoSIMOntology:NeighborHood",
 
     "nexTo": {
-      "@id": "LGeoSIMOntology:nexToPerson",
-      "@container": "@list"
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
     },
     "livingIn": {
       "@id": "LGeoSIMOntology:livingIn",
@@ -21,11 +21,15 @@
     },
     "hasParents": {
       "@id": "LGeoSIMOntology:hasParents",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasChildren": {
       "@id": "LGeoSIMOntology:hasChildren",
-      "@container": "@list"
+      "@type": "@id"
+    },
+    "hasSiblings": {
+      "@id": "LGeoSIMOntology:hasSiblings",
+      "@type": "@id"
     }
   }    
 }

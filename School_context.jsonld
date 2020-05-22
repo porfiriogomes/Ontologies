@@ -22,11 +22,11 @@
 
     "hasTeachingLevel": {	
       "@id": "LGeoSIMOntology:hasTeachingLevel",
-      "@container": "@list"
+      "@type": "@id"
     },
-    "nexToDomLayElem": {
-      "@id": "LGeoSIMOntology:nexToDomLayElem",
-      "@container": "@list"
+    "nexTo": {
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
     },
     "livingIn": {
       "@id": "LGeoSIMOntology:livingIn",
@@ -38,4 +38,3 @@
     }
   }    
 }
-

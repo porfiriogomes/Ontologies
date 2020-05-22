@@ -11,7 +11,7 @@
 
     "providedBySupplier": {
       "@id": "LGeoSIMOntology:providedBySupplier",
-      "@container": "@list"
+      "@type": "@id"
     }
   }
 }

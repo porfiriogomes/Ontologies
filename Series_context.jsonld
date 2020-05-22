@@ -16,7 +16,7 @@
 
     "hasClass": {	
       "@id": "LGeoSIMOntology:hasClass",
-      "@container": "@list"
+      "@type": "@id"    
     },	
     "attatchedToTechingModality": {
       "@id": "LGeoSIMOntology:attatchedToTechingModality",

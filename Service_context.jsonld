@@ -16,19 +16,19 @@
    
     "hasSpecialtySupliers": {
       "@id": "LGeoSIMOntology:hasSpecialtySupliers",
-      "@container": "@list"
+      "@type": "@id"
     },
     "providesSpecialty": {
       "@id": "LGeoSIMOntology:providesSpecialty",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasServiceUser": {
       "@id": "LGeoSIMOntology:hasServiceUser",
-      "@container": "@list"
+      "@type": "@id"
     },
-    "nexToDomainLayer": {
-      "@id": "LGeoSIMOntology:nexToDomainLayer",
-      "@container": "@list"
+    "nexTo": {
+      "@id": "LGeoSIMOntology:nexTo",
+      "@type": "@id"
     },
     "locatedAt": {
       "@id": "LGeoSIMOntology:locatedAt",

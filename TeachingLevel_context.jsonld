@@ -13,7 +13,7 @@
 
     "hasTeachingModality": {	
       "@id": "LGeoSIMOntology:hasTeachingModality",
-      "@container": "@list"
+      "@type": "@id"
     },
     "attachedToSchoolTL": {
       "@id": "LGeoSIMOntology:attachedToSchoolTL",

@@ -18,11 +18,11 @@
 
     "hasStudentsTM": {	
       "@id": "LGeoSIMOntology:hasStudentsTM",
-      "@container": "@list"
+      "@type": "@id"
     },
     "hasSeries": {	
       "@id": "LGeoSIMOntology:hasSeries",
-      "@container": "@list"
+      "@type": "@id"
     },
     "attatchedToTechingLevel": {
       "@id": "LGeoSIMOntology:attatchedToTechingLevel",

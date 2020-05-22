@@ -11,8 +11,7 @@
 
     "neighborOf": {
       "@id": "LGeoSIMOntology:neighborOf",
-      "@type": "@id",
-      "@container":"@list"
+      "@type": "@id"
     },
     "isPartOf": {
       "@id": "LGeoSIMOntology:isPartOf",
